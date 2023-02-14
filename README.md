@@ -1,4 +1,4 @@
-<img src="./masterhead.jpg" alt="master head image" />
+
 
 <h1 align="center">Hi 👋, I'm Abderahman Abdelvettah</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
