@@ -23,14 +23,17 @@ I'm passionate about leveraging data to drive innovative solutions and create im
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 
 #### 📊 Data Science & ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-white?style=flat-square&logo=PyTorch&logoColor=FF6F00)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+
 
 #### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0997e5?style=flat-square&logo=Docker&logoColor=white)
+
 
 
 ### 🌱 I'm currently learning
@@ -39,6 +42,7 @@ I'm passionate about leveraging data to drive innovative solutions and create im
 - Cloud computing platforms (AWS, GCP)
 
 ### 📫 How to reach me
+[🌐](https://abderahman-hamili.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abderahman-hamili-94ab89214/)
 ---
 
