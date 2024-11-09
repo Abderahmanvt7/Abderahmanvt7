@@ -11,7 +11,7 @@ I'm passionate about leveraging data to drive innovative solutions and create im
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
+#### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
