@@ -1,3 +1,4 @@
+![Banner](./masterhead.jpg)
 # 👋 Hello, I'm Abderahman
 
 ## 🚀 Aspiring Data Scientist | 💻 Full-Stack Developer | 🎓 MSc Data Science Student
