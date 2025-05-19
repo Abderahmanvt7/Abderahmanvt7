@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Abderahman
 
-## 🚀 Aspiring Data Scientist | 💻 Full-Stack Developer | 🎓 MSc Data Science Student
+## 🚀 Data Scientist | 💻 Full-Stack Developer 
 
 I'm passionate about leveraging data to drive innovative solutions and create impact. With a strong foundation in software development and a growing expertise in machine learning, I'm on a journey to become a proficient Data Scientist.
 
